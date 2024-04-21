@@ -8,7 +8,9 @@ It is a demo about Denoising Diffusion Probabilistic Models, includes the follow
 * Briefly describe the advantages and limitations of diffusion models
 
 ## Runtime Environment
-This tutorial is written on Python 3.9.13
+* This tutorial is written on Python 3.9.13
+* Three external libraries are used: torch, sklearn, matplotlib
 
-Three external libraries are used: torch, sklearn, matplotlib
-
+## Note
+* This tutorial is intended for readers who have a basic understanding of mathematics and deep neural networks.
+* While this is a novel implementation, it cannot be ignored that it was inspired by many existing tutorials or blog posts.
